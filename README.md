@@ -15,3 +15,5 @@ I will inform you about the protocol to import an SVG into blender 3D attaching 
 - Inkscape 1.2
 
 License CC BY-SA 4.0
+
+![alt text](https://github.com/dnlgalleguillos/SVG-for-Blender-3D/blob/main/Render%20SVG%20for%20Blender.png?raw=true "SVG for Blender 3D")

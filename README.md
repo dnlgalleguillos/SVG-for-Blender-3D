@@ -24,7 +24,7 @@ License CC BY-SA 4.0
 To deploy this project run
 
 ```bash
-  npm run deploy
+  Open Inkscape
 ```
 
 ![alt text](https://github.com/dnlgalleguillos/SVG-for-Blender-3D/blob/main/Render%20SVG%20for%20Blender.png?raw=true "SVG for Blender 3D")

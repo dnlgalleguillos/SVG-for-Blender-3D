@@ -21,10 +21,29 @@ License CC BY-SA 4.0
 
 ## Protocols
 
-To deploy this project run
-
+To deploy this project run.
 ```bash
   Open Inkscape
 ```
+Let's find the icons in this case they will be Adwaita.
+```bash
+  /usr/share/icons/Adwaita/
+```
+Select the icons you want, I'll leave you an SVG of the icons I chose.
+```bash
+  Background Icons.svg
+```
+Now we are going to open Blender to import SVG Scalable Vector Graphics formats.
+```bash
+  Open Blender
+```
+Import SVG from Blender
+```bash
+  File - Import - Scalable Vector Graphics (.svg)
+```
+
+
+
+
 
 ![alt text](https://github.com/dnlgalleguillos/SVG-for-Blender-3D/blob/main/Render%20SVG%20for%20Blender.png?raw=true "SVG for Blender 3D")

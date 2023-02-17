@@ -49,6 +49,10 @@ Now you can use this SVG into Blender
 ```bash
   SVG Icons.blend
 ```
+Add Light and Shader Nodes
+```bash
+  There is a background created with Shader Nodes
+```
 And this is the Final Render
 - Render Engine: Cycles
 - Feature Set: Experimental

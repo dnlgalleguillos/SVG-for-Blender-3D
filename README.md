@@ -41,7 +41,18 @@ Import SVG from Blender
 ```bash
   File - Import - Scalable Vector Graphics (.svg)
 ```
-
+Extrude SVG into Blender
+```bash
+  Edit Mode - Select all files - Click E - Now you can Extrude the SVG. 
+```
+Now you can use this SVG into Blender
+```bash
+  SVG Icons.blend
+```
+And this is the Final Render
+- Render Engine: Cycles
+- Feature Set: Experimental
+- Add-ons: Node Wrangler
 
 
 

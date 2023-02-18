@@ -71,3 +71,6 @@ You can get the Debian Wallpaper version
   Debian_Wallpaper.svg
 ```
 And this is the way how to design a wallpaper for [Debian](https://wiki.debian.org/DebianArt/Themes/SoftDebian)
+
+Debian Wallpaper
+![alt text](https://github.com/dnlgalleguillos/SVG-for-Blender-3D/blob/main/Debian_Wallpaper.png?raw=true "Debian Wallpaper")

@@ -14,8 +14,6 @@ I will inform you about the protocol to import an SVG into blender 3D attaching 
 - Blender 3.5.0 Alpha
 - Inkscape 1.2
 
-License CC BY-SA 4.0
-
 ## Librsvg
 - [Librsvg](https://github.com/GNOME/librsvg) a library to render SVG images to Cairo surfaces. GNOME uses this to render SVG icons. Outside of GNOME, other desktop environments use it for similar purposes. It is also used in Wikimedia to render the SVG images that appear in Wikipedia, so that even old web browsers can display them. Many projects which casually need to render static SVG images use librsvg.
 
@@ -74,3 +72,5 @@ And this is the way how to design a wallpaper for [Debian](https://wiki.debian.o
 
 Debian Wallpaper
 ![alt text](https://github.com/dnlgalleguillos/SVG-for-Blender-3D/blob/main/Debian_Wallpaper.png?raw=true "Debian Wallpaper")
+
+License CC BY-SA 4.0

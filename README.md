@@ -59,3 +59,15 @@ Add Light and Shader Nodes
 
 And this is the Final Render
 ![alt text](https://github.com/dnlgalleguillos/SVG-for-Blender-3D/blob/main/Render%20SVG%20for%20Blender.png?raw=true "SVG for Blender 3D")
+
+You can get the Debian Wallpaper version
+```bash
+  Debian_Logo.svg
+```
+```bash
+  Debian_Wallpaper.blend
+```
+```bash
+  Debian_Wallpaper.svg
+```
+And this is the way how to design a wallpaper for [Debian](https://wiki.debian.org/DebianArt/Themes/SoftDebian)

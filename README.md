@@ -53,12 +53,9 @@ Add Light and Shader Nodes
 ```bash
   There is a background created with Shader Nodes
 ```
-And this is the Final Render
 - Render Engine: Cycles
 - Feature Set: Experimental
 - Add-ons: Node Wrangler
 
-
-
-
+And this is the Final Render
 ![alt text](https://github.com/dnlgalleguillos/SVG-for-Blender-3D/blob/main/Render%20SVG%20for%20Blender.png?raw=true "SVG for Blender 3D")

@@ -9,7 +9,7 @@ I will inform you about the protocol to import an SVG into blender 3D attaching 
 ### Operating System and Software
 ### All this work are created with Linux Operating System and GNOME Desktop.
 
-- Debian and Fedora
+- Debian and Fedora, last releases
 - GNOME Desktop
 - Blender 3.5.0 Alpha
 - Inkscape 1.2

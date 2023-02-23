@@ -11,7 +11,7 @@ I will inform you about the protocol to import an SVG into blender 3D attaching 
 
 - Debian and Fedora, last releases
 - GNOME Desktop
-- Blender 3.5.0 Alpha
+- Blender 3.5.0
 - Inkscape 1.2
 
 ## Librsvg
